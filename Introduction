@@ -1,0 +1,11 @@
+using System;
+namespace Godfre Atinon
+{
+Class Introduction
+{
+Static void main(string []args)
+{
+Console.WritLine("Hello I am Godfre Atinon, A student of Filamer Christian University")
+}
+}
+}
