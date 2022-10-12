@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Atinonatics
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Atinonatics/Atinonatics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Everything you can see or view on my profife arae just for school purposes.
+//Nothing more nothing less
+//Ad Astra
